@@ -2,8 +2,9 @@ package devices
 
 import (
 	"fmt"
-	"github.com/elemecca/go-zebra-scanner/snapi"
-	"github.com/google/gousb"
+
+	"github.com/jon-ryan/go-zebra-scanner/snapi"
+	"github.com/jon-ryan/gousb"
 	log "github.com/sirupsen/logrus"
 )
 
