@@ -1,3 +1,7 @@
+# Changes
+Fixed go module imports in order to enable a simple `go get github.com/jon-ryan/go-zebra-scanner/devices` and `go get github.com/jon-ryan/go-zebra-scanner/snapi`
+
+
 # Zebra/Symbol/Motorola Barcode Scanner Daemon
 
 This project provides client software for barcode scanners made by
