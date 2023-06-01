@@ -3,7 +3,7 @@ module github.com/jon-ryan/go-zebra-scanner/snapi
 go 1.20
 
 require (
-	github.com/google/gousb v1.1.2
+	github.com/jon-ryan/gousb v1.0.1
 	github.com/sirupsen/logrus v1.1.1
 )
 

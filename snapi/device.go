@@ -3,7 +3,8 @@ package snapi
 import (
 	"encoding/binary"
 	"errors"
-	"github.com/google/gousb"
+
+	"github.com/jon-ryan/gousb"
 	log "github.com/sirupsen/logrus"
 )
 
